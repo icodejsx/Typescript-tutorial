@@ -16,3 +16,9 @@ const circ = (diameter: number) => {
 
 console.log(circ(8))
 
+
+// arrary
+
+let names = ['ken', 'kenny', 'youh']
+
+names.push('kenn')
