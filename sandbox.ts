@@ -22,3 +22,17 @@ console.log(circ(8))
 let names = ['ken', 'kenny', 'youh']
 
 names.push('kenn')
+
+// objects in Typescript
+
+let objects = {
+    age: 34,
+    space: "awka",
+    name: "dad"
+}
+
+objects = {
+    name: "Dd",
+    age: 34,
+    space: 'oo'
+ }
