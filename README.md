@@ -10,3 +10,7 @@ The basic different between type script and javascript is the use of "strict" wh
 # Defining Type in typeScript
 
 Types in typeScript HELPS when declaring values to variables either in a function or when ever you want to pass a parameter
+
+# objects and Array in TypeScript 
+
+In typeScript Array and Object works the same way as in typeScript but then the only difference is that when trying to reasign a variable IN OBJECT YOU WONT BE ABLE TO REPLACE A STRING WITH A ANUMBER OR VISE VERSER
