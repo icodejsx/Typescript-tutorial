@@ -20,4 +20,4 @@ In typeScript Array and Object works the same way as in typeScript but then the 
 this is a process of strictly decaring types of variables , objects and array 
 dd
 # Dynamic types(any)
-type any is used for type of variable when declaring any it means any type is accepted 
+type any is used for type of variable when declaring any it means any type is accepted. it kinda gon back to javascript 
