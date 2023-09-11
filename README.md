@@ -14,3 +14,6 @@ Types in typeScript HELPS when declaring values to variables either in a functio
 # objects and Array in TypeScript 
 
 In typeScript Array and Object works the same way as in typeScript but then the only difference is that when trying to reasign a variable IN OBJECT YOU WONT BE ABLE TO REPLACE A STRING WITH A ANUMBER OR VISE VERSER
+
+
+# Explicit tyoes 

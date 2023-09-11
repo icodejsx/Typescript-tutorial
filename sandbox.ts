@@ -36,3 +36,20 @@ objects = {
     age: 34,
     space: 'oo'
  }
+
+
+//  Explicit types
+let character: string;
+let age: number;
+let isLoggedIn: boolean;
+
+age = 30;
+
+//Array
+let ninijas: string[]
+
+ninijas = [];
+
+ninijas.push("i am")
+
+console.log(ninijas)
