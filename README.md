@@ -16,4 +16,8 @@ Types in typeScript HELPS when declaring values to variables either in a functio
 In typeScript Array and Object works the same way as in typeScript but then the only difference is that when trying to reasign a variable IN OBJECT YOU WONT BE ABLE TO REPLACE A STRING WITH A ANUMBER OR VISE VERSER
 
 
-# Explicit tyoes 
+# Explicit types 
+this is a process of strictly decaring types of variables , objects and array 
+dd
+# Dynamic types(any)
+type any is used for type of variable when declaring any it means any type is accepted 
