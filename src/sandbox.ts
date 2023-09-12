@@ -69,4 +69,29 @@ const add = function (a: number, b: string, c: any) {
     
 }
 
-add(3 ,"sdf" ,false)
+add(3, "sdf", false)
+
+// Type Aliases
+
+type stringOrNum = string | number;
+type objWithName = { name: string, uid: stringOrNum }
+
+const loginDetails = (uid: stringOrNum, item: string) => {
+    console.log(`${item} has a uid of ${uid}`)
+}
+
+const greet = (user:objWithName) => {
+    console.log(`${user.name} says hello `)
+}
+
+const greetAgain = (user:objWithName) => {
+    console.log(`${user.name} says hello `)
+}
+
+// function signature
+
+let graat: (a: string, b: string) => void;
+
+graat = (name: string, greeting: string) => {
+    console.log(`${name} says ${greeting}`)
+ }

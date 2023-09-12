@@ -21,3 +21,15 @@ this is a process of strictly decaring types of variables , objects and array
 dd
 # Dynamic types(any)
 type any is used for type of variable when declaring any it means any type is accepted. it kinda gon back to javascript 
+
+# Functions Types 
+
+Functions types wroks the same as normal javascript just more of diceration of types 
+
+# Type Aliases
+Type Aliases this is a process where by you the type of all particular function or objects are been stored in a variable and the top and also this variable can also be reused to aviod duplication of codes  
+
+# Function Signatures  
+
+it basicity describes the General structure of a function 
+this is used to determine the argument a function takes in and also what type of data it returns 

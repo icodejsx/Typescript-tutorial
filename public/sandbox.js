@@ -44,3 +44,17 @@ const add = function (a, b, c) {
     console.log(a + b + c);
 };
 add(3, "sdf", false);
+const loginDetails = (uid, item) => {
+    console.log(`${item} has a uid of ${uid}`);
+};
+const greet = (user) => {
+    console.log(`${user.name} says hello `);
+};
+const greetAgain = (user) => {
+    console.log(`${user.name} says hello `);
+};
+// function signature
+let graat;
+graat = (name, greeting) => {
+    console.log(`${name} says ${greeting}`);
+};
