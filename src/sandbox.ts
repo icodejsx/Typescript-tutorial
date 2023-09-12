@@ -43,9 +43,6 @@ let character: string;
 let age: number;
 let isLoggedIn: boolean;
 
-age = 30;
-
-//Array
 let ninijas: string[]
 
 ninijas = [];
@@ -53,3 +50,23 @@ ninijas = [];
 ninijas.push("i am")
 
 console.log(ninijas)
+
+// function type
+
+let great = () => {
+    console.log("man");
+}
+
+
+let man: Function;
+
+man = () => { 
+    console.log("man");
+}
+
+const add = function (a: number, b: string, c: any) {
+    console.log(a + b + c)
+    
+}
+
+add(3 ,"sdf" ,false)
