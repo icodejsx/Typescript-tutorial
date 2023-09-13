@@ -33,3 +33,6 @@ Type Aliases this is a process where by you the type of all particular function 
 
 it basicity describes the General structure of a function 
 this is used to determine the argument a function takes in and also what type of data it returns 
+
+# Dom and Type Casting 
+
