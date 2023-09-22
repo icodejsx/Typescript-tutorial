@@ -41,4 +41,7 @@ This is a process of manipulating and getting datas from dom.. like its doone in
 # classes in Type script 
 class in typescript is same thing with class in javascript 
 
+# Public Privacy and security 
+
+ this is the process of securing your imofrmation on your data base. this is done by adding public , private and readuy only. they are called access modifiyers 
 
