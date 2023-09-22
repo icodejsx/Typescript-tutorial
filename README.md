@@ -36,3 +36,9 @@ this is used to determine the argument a function takes in and also what type of
 
 # Dom and Type Casting 
 
+This is a process of manipulating and getting datas from dom.. like its doone in javascript.
+
+# classes in Type script 
+class in typescript is same thing with class in javascript 
+
+
