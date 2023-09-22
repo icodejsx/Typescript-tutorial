@@ -43,5 +43,5 @@ class in typescript is same thing with class in javascript
 
 # Public Privacy and security 
 
- this is the process of securing your imofrmation on your data base. this is done by adding public , private and readuy only. they are called access modifiyers 
+ This is the process of securing your imofrmation on your data base. this is done by adding public , private and readuy only. they are called access modifiyers 
 

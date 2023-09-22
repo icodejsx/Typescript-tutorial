@@ -1,3 +1,4 @@
+import {Invoice} from './classes/invoice.js'
 // const anchor = document.querySelector('a')!;
 
 // console.log(anchor.href)
@@ -6,21 +7,7 @@
 
 
 // class
-class Invoice {
-    // client: string;
-    // details: string;
-    // amount: number;
 
-    constructor(
-        readonly client: string,
-        private details: string,
-        public amount: number,
-   ){}
-
-    format() {
-        return `${this.client} owes $${this.amount} for ${this.details}`
-    }
-}
 
 
 const invOne = new Invoice('merio', 'working on Mario job', 250)
