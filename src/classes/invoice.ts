@@ -1,3 +1,5 @@
+import {} from "../interfaces/Hasformatter.js"
+
 export class Invoice {
     // client: string;
     // details: string;

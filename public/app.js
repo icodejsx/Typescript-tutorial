@@ -1,3 +1,19 @@
+// interface
+const me = {
+    name: "shung",
+    age: 30,
+    speak(text) {
+        console.log(text);
+    },
+    spend(amount) {
+        console.log('I spent', amount);
+        return amount;
+    }
+};
+const greetPerson = (person) => {
+    console.log('hello', person.name);
+};
+greetPerson(me);
 import { Invoice } from './classes/invoice.js';
 // const anchor = document.querySelector('a')!;
 // console.log(anchor.href)
